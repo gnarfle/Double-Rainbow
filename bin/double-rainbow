@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'double_rainbow'
+DoubleRainbow.run
