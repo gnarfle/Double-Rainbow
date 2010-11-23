@@ -4,11 +4,12 @@ Double rainbow is intended to be a better version of the Rainbows! ruby web serv
 
 ## Installation
 
-Double rainbow requires Rainbows!
-
-	* gem install rainbows
-
-## More magic?
-
-	* gem install unicorn
+	* Download https://github.com/downloads/chadcf/Double-Rainbow/double_rainbow-1.0.gem
+  * gem install double_rainbow-1.0.gem
+  
+## Running
+  
+  * cd /my/rack/app
+  * double-rainbow
+  * sit back and enjoy
 
