@@ -2,8 +2,10 @@ require 'rainbows'
 require 'rainbows'
 
 module DoubleRainbow
-  def run
-    system 'rainbows'
-    system 'rainbows'
+  class << self
+    def run
+      system 'rainbows'
+      system 'rainbows'
+    end
   end
 end
