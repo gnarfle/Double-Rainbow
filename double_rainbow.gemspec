@@ -11,4 +11,5 @@ Gem::Specification.new do |s|
   s.require_paths = %w(lib)
   s.add_dependency(%q<rainbows>)
   s.files = Dir['lib/**/*.rb'] + Dir['bin/**/*']
+  s.description = "Rainbows. Twice as good."
 end
